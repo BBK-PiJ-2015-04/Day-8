@@ -14,4 +14,12 @@ public class Person {
 	public void setName(String name) {
 		this.name = name;
 	}
+	
+	public Person getNext() {
+		return nextPerson;
+	}
+	
+	public void setNext(Person nextPerson) {
+		this.nextPerson = nextPerson;
+	}
 }

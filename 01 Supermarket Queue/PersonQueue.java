@@ -10,6 +10,6 @@ public interface PersonQueue {
 	Removes a person from the queue.
 	*/
 
-	Person servePerson();
+	String servePerson();
 
 }

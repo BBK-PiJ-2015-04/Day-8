@@ -12,5 +12,10 @@ public class HashUtilities {
 		
 	}
 	
+	public static int shortHash(int numby) {
+		
+		
+		
+	}
 	
 }
